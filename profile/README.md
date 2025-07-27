@@ -1,4 +1,4 @@
-# Dotpen Labs
+![Profile Cover](./profile.png)
 
 we make small tools that feel like paper and think like a browser.  
 nothing heavy — just calm interfaces for everyday thoughts and productivity.
